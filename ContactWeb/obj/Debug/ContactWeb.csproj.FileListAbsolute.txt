@@ -80,3 +80,5 @@ E:\Sara Grbic\Projects\C#\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Micr
 E:\Sara Grbic\Projects\C#\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
 E:\Sara Grbic\Projects\C#\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 E:\Sara Grbic\Projects\C#\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
+E:\Sara Grbic\Projects\C#\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.InitialCreate.resources
+E:\Sara Grbic\Projects\C#\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
